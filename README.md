@@ -1,3 +1,4 @@
+![alt text](https://github.com/viniciuspereiras/ArduinoSmartGarden/blob/main/exseco.png)
 # ArduinoSmartGarden
 Jardim inteligente/Automático com Arduino.
 - Projeto desenvolvido por mim.
